@@ -1,5 +1,5 @@
-# HealthCareDAProject1
-Automated Stock Portfolio Tracker
+# Automated Stock Portfolio Tracker
+
 
 *A Python + MySQL + Tableau end-to-end data analytics project*
 
